@@ -23,7 +23,7 @@ saya sedang belajar golang`
 	fmt.Println(string_literal, "\n")
 
 
-	// penggabungan dua string menggunakan operato + 
+	// penggabungan dua string menggunakan operator + 
 	fmt.Println("penggabungan string :")
 	// contoh
 	string1 := "muhammad isa irawanto"
@@ -93,7 +93,5 @@ saya sedang belajar golang`
 	string_kecil8 := "muhammad isa irawanto"
 	string_split := strings.Split(string_kecil8, ",")
 	fmt.Println(string_split, "\n")
-
-
 
 }
