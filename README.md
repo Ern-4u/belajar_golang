@@ -1,1 +1,1 @@
-## proses belajar golang dari 0
+## module belajar golang dari 0
