@@ -32,4 +32,5 @@ func main() {
 	fmt.Println("slice1 setelah dihapus : ", slice1)
 	slice2 = append(slice2[:1], slice2[2:]...)
 	fmt.Println("slice2 setelah dihapus : ", slice2)
+	
 }
